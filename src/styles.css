@@ -6,7 +6,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: hwb(72 17% 33%);
+  background-color: lab(83.79% -11.37 5.07);
 }
 
 main {
